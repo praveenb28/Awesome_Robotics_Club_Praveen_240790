@@ -1,10 +1,7 @@
  # Step-by-Step Deep Dive: Chessboard Sensor Matrix Design
-
-Alright! Let’s go **even deeper** — step by step, full electronics + logic explanation, like you’re designing this for production.
-
 ---
 
-## Problem Recap:
+## Problem :
 
 We have:
 - 64 squares (8x8 chessboard)
