@@ -30,5 +30,5 @@ Potentiometer  Button  LCD      Servo Motors
 
 ## Visual Representation
 
-![Servo Control System](Block_Diagram_2.png)
+ <img src="task6dig1.jpg">
 
