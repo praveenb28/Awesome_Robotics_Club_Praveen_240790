@@ -47,5 +47,5 @@ StepClimber ascends stairs using this sequence:
 5. **Encoders**: Verify synchronized movement of both tracks to maintain direction.
 
 ## Concept Diagram
-![alt text](Block_Diagram_1.png)
+<img src="task_6_Block_Diagram_1.png">
 
