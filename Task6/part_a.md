@@ -7,7 +7,8 @@ Build a chessboard surface where each square detects pressure reliably.
 
 ### 🧩 Board Stack (Layer by Layer)
 
-<img src="DIAGRAM_1A.png" alt="dig1">
+<img src="dig1a.png" alt="dig1">
+
 
 
 > 📝 **Notes:**
