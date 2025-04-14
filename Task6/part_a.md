@@ -7,7 +7,7 @@ Build a chessboard surface where each square detects pressure reliably.
 
 ### 🧩 Board Stack (Layer by Layer)
 
-<img src="dig1a.png" alt="dig1">
+<img src="dig1a.png.png" alt="dig1">
 
 
 
@@ -112,13 +112,13 @@ if (origin_square && destination_square) {
 ## 6. Visual Diagrams
 
 ### 🧩 Chessboard Top View:
-
+<img src="dig2a.png.png">
 <!-- dig2 -->
 
 ### 🧩 Chessboard Layer Side View:
 
 <!-- dig3 -->
-
+<img src="dig3a.png.png">
 
 ---
 
